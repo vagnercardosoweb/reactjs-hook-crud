@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vagner Cardoso",
+      "email": "vagnercardosoweb@gmail.com",
+      "status": "online"
+    }
+  ]
+}
